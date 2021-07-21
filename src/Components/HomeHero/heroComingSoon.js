@@ -49,7 +49,7 @@ function HeroComingSoon() {
     return (
         <>
             <hr />
-            <h1>Hero Coming Soon Banner!</h1>
+            <h1>Hero Coming Soon Banner IMDB!</h1>
             <Tostbox />
             {
                 cmgSoon.comingsoon.map((cmitem, index) => {
