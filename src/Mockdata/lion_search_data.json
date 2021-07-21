@@ -1,0 +1,174 @@
+[
+   {
+      "label":"The Lion King",
+      "subLabel":"Matthew Broderick, Jeremy Irons",
+      "template":"const",
+      "type":"feature",
+      "value":"The Lion King",
+      "url":"/title/tt0110357?ref_=nv_sr_srsg_0",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_.jpg",
+         "maxHeight":2964,
+         "maxWidth":1995,
+         "caption":"The Lion King"
+      },
+      "year":"1994"
+   },
+   {
+      "label":"3D Re-release Version",
+      "subLabel":"1:20",
+      "template":"video",
+      "value":"3D Re-release Version",
+      "url":"/title/tt0110357/videoplayer/vi3764362265?ref_=nv_sr_srsg_1",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BMTU1MzkwNDI5OV5BMl5BanBnXkFtZTgwODU2MTkwMDI@._V1_.jpg",
+         "maxHeight":720,
+         "maxWidth":1280,
+         "caption":"3D Re-release Version"
+      }
+   },
+   {
+      "label":"Jaws, Shreks, & Lion Kings: A Summer Blockbuster History",
+      "subLabel":"7:23",
+      "template":"video",
+      "value":"Jaws, Shreks, & Lion Kings: A Summer Blockbuster History",
+      "url":"/title/tt0110357/videoplayer/vi1477230105?ref_=nv_sr_srsg_2",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BYzgwNWEyNGEtMGY3ZS00ODFiLWI4NWItNDgxN2E2NTkxMjgyXkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+         "maxHeight":1080,
+         "maxWidth":1920,
+         "caption":"Jaws, Shreks, & Lion Kings: A Summer Blockbuster History"
+      }
+   },
+   {
+      "label":"The Lion King",
+      "subLabel":"Donald Glover, Beyoncé",
+      "template":"const",
+      "type":"feature",
+      "value":"The Lion King",
+      "url":"/title/tt6105098?ref_=nv_sr_srsg_3",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_.jpg",
+         "maxHeight":2048,
+         "maxWidth":1382,
+         "caption":"The Lion King"
+      },
+      "year":"2019"
+   },
+   {
+      "label":"The Lion King",
+      "subLabel":"1:49",
+      "template":"video",
+      "value":"The Lion King",
+      "url":"/title/tt6105098/videoplayer/vi3509369881?ref_=nv_sr_srsg_4",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BYjE0NTMyZmMtOGQ2YS00MGZkLThkYjItZWRhMzYwMzRkZjYwXkEyXkFqcGdeQXRyYW5zY29kZS13b3JrZmxvdw@@._V1_.jpg",
+         "maxHeight":1080,
+         "maxWidth":1920,
+         "caption":"The Lion King"
+      }
+   },
+   {
+      "label":"Jaws, Shreks, & Lion Kings: A Summer Blockbuster History",
+      "subLabel":"7:23",
+      "template":"video",
+      "value":"Jaws, Shreks, & Lion Kings: A Summer Blockbuster History",
+      "url":"/title/tt6105098/videoplayer/vi1477230105?ref_=nv_sr_srsg_5",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BYzgwNWEyNGEtMGY3ZS00ODFiLWI4NWItNDgxN2E2NTkxMjgyXkEyXkFqcGdeQWFsZWxvZw@@._V1_.jpg",
+         "maxHeight":1080,
+         "maxWidth":1920,
+         "caption":"Jaws, Shreks, & Lion Kings: A Summer Blockbuster History"
+      }
+   },
+   {
+      "label":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "subLabel":"Tilda Swinton, Georgie Henley",
+      "template":"const",
+      "type":"feature",
+      "value":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+      "url":"/title/tt0363771?ref_=nv_sr_srsg_6",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BMTc0NTUwMTU5OV5BMl5BanBnXkFtZTcwNjAwNzQzMw@@._V1_.jpg",
+         "maxHeight":2048,
+         "maxWidth":1385,
+         "caption":"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe"
+      },
+      "year":"2005"
+   },
+   {
+      "label":"Lion",
+      "subLabel":"Dev Patel, Nicole Kidman",
+      "template":"const",
+      "type":"feature",
+      "value":"Lion",
+      "url":"/title/tt3741834?ref_=nv_sr_srsg_7",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BMjA3NjkzNjg2MF5BMl5BanBnXkFtZTgwMDkyMzgzMDI@._V1_.jpg",
+         "maxHeight":6118,
+         "maxWidth":4168,
+         "caption":"Lion"
+      },
+      "year":"2016"
+   },
+   {
+      "label":"The Lion King 2: Simba's Pride",
+      "subLabel":"Matthew Broderick, Neve Campbell",
+      "template":"const",
+      "type":"video",
+      "value":"The Lion King 2: Simba's Pride",
+      "url":"/title/tt0120131?ref_=nv_sr_srsg_8",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BY2Y3MTk2MDgtOTc1Yy00ZmFjLThlNTEtMDQ1Y2EzZmRjMzVjXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_.jpg",
+         "maxHeight":884,
+         "maxWidth":580,
+         "caption":"The Lion King 2: Simba's Pride"
+      },
+      "year":"1998"
+   },
+   {
+      "label":"The Lion in Winter",
+      "subLabel":"Peter O'Toole, Katharine Hepburn",
+      "template":"const",
+      "type":"feature",
+      "value":"The Lion in Winter",
+      "url":"/title/tt0063227?ref_=nv_sr_srsg_9",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BMTkzNzYyMzA5N15BMl5BanBnXkFtZTgwODcwODQ3MDI@._V1_.jpg",
+         "maxHeight":1481,
+         "maxWidth":1000,
+         "caption":"The Lion in Winter"
+      },
+      "year":"1968"
+   },
+   {
+      "label":"The Lion Guard",
+      "subLabel":"Max Charles, Joshua Rush",
+      "template":"const",
+      "type":"TV series",
+      "value":"The Lion Guard",
+      "url":"/title/tt3793630?ref_=nv_sr_srsg_10",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BNmUyM2ZmYTItOTA5My00Zjg4LWEwNTEtNTIwNWU1Y2QyZTViXkEyXkFqcGdeQXVyNjc5ODUzODU@._V1_.jpg",
+         "maxHeight":629,
+         "maxWidth":440,
+         "caption":"The Lion Guard"
+      },
+      "year":"2015"
+   },
+   {
+      "label":"The Lion, the Witch & the Wardrobe",
+      "subLabel":"Richard Dempsey, Sophie Cook",
+      "template":"const",
+      "type":"TV mini-series",
+      "value":"The Lion, the Witch & the Wardrobe",
+      "url":"/title/tt0094500?ref_=nv_sr_srsg_11",
+      "image":{
+         "url":"https://m.media-amazon.com/images/M/MV5BN2ZmZDMzMmYtNzgzYy00OTBiLWI4ZTEtNWYzZmExODhkYmJlXkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_.jpg",
+         "maxHeight":1500,
+         "maxWidth":1058,
+         "caption":"The Lion, the Witch & the Wardrobe"
+      },
+      "year":"1988"
+   }
+]

@@ -1,0 +1,332 @@
+[
+    {
+       "categoryId":"mov",
+       "href":"https://www.imdb.com/calendar/",
+       "i18nKey":"nav_mainMenu_link_releaseCalendar",
+       "ref":"nv_mv_cal",
+       "title":"Release Calendar"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://www.imdb.com/list/ls016522954/",
+       "i18nKey":"nav_mainMenu_link_dvdBlurayReleases",
+       "ref":"nv_tvv_dvd",
+       "title":"DVD & Blu-ray Releases"
+    },
+    {
+       "categoryId":"mov",
+       "href":"/chart/top/",
+       "i18nKey":"nav_mainMenu_link_topRatedMovies",
+       "ref":"nv_mv_250",
+       "title":"Top Rated Movies"
+    },
+    {
+       "categoryId":"mov",
+       "href":"/chart/moviemeter/",
+       "i18nKey":"nav_mainMenu_link_mostPopularMovies",
+       "ref":"nv_mv_mpm",
+       "title":"Most Popular Movies"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://www.imdb.com/feature/genre/",
+       "i18nKey":"nav_mainMenu_link_browseMoviesGenre",
+       "ref":"nv_ch_gr",
+       "title":"Browse Movies by Genre"
+    },
+    {
+       "categoryId":"mov",
+       "href":"/chart/boxoffice/",
+       "i18nKey":"nav_mainMenu_link_topBoxOffice",
+       "ref":"nv_ch_cht",
+       "title":"Top Box Office"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://m.imdb.com/showtimes/movie/",
+       "i18nKey":"nav_mainMenu_link_showtimesTickets",
+       "ref":"nv_mv_sh",
+       "title":"Showtimes & Tickets"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://www.imdb.com/showtimes/",
+       "i18nKey":"nav_mainMenu_link_showtimesTickets",
+       "ref":"nv_mv_sh",
+       "title":"Showtimes & Tickets"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://www.imdb.com/movies-in-theaters/",
+       "i18nKey":"nav_mainMenu_link_inTheaters",
+       "ref":"nv_mv_inth",
+       "title":"In Theaters"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://m.imdb.com/coming-soon/",
+       "i18nKey":"nav_mainMenu_link_comingSoon",
+       "ref":"nv_mv_cs",
+       "title":"Coming Soon"
+    },
+    {
+       "categoryId":"mov",
+       "href":"https://www.imdb.com/coming-soon/",
+       "i18nKey":"nav_mainMenu_link_comingSoon",
+       "ref":"nv_mv_cs",
+       "title":"Coming Soon"
+    },
+    {
+       "categoryId":"mov",
+       "href":"/news/movie/",
+       "i18nKey":"nav_mainMenu_link_movieNews",
+       "ref":"nv_nw_mv",
+       "title":"Movie News"
+    },
+    {
+       "categoryId":"mov",
+       "href":"/india/toprated/",
+       "i18nKey":"nav_mainMenu_link_indiaMovieSpotlight",
+       "ref":"nv_mv_in",
+       "title":"India Movie Spotlight"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"https://www.imdb.com/whats-on-tv/",
+       "i18nKey":"nav_mainMenu_link_whatsOnTVandStreaming",
+       "ref":"nv_tv_ontv",
+       "title":"What's on TV & Streaming"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"https://m.imdb.com/whats-on-tv/",
+       "i18nKey":"nav_mainMenu_link_whatsOnTVandStreaming",
+       "ref":"nv_tv_ontv",
+       "title":"What's on TV & Streaming"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"/chart/toptv/",
+       "i18nKey":"nav_mainMenu_link_topRatedShows",
+       "ref":"nv_tvv_250",
+       "title":"Top Rated Shows"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"/chart/tvmeter/",
+       "i18nKey":"nav_mainMenu_link_mostPopularShows",
+       "ref":"nv_tvv_mptv",
+       "title":"Most Popular Shows"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"https://www.imdb.com/feature/genre/",
+       "i18nKey":"nav_mainMenu_link_browseTvShowGenre",
+       "ref":"nv_tv_gr",
+       "title":"Browse TV Shows by Genre"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"/news/tv/",
+       "i18nKey":"nav_mainMenu_link_tvNews",
+       "ref":"nv_nw_tv",
+       "title":"TV News"
+    },
+    {
+       "categoryId":"tvshows",
+       "href":"/india/tv",
+       "i18nKey":"nav_mainMenu_link_indiaTvSpotlight",
+       "ref":"nv_tv_in",
+       "title":"India TV Spotlight"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/oscars/",
+       "i18nKey":"nav_mainMenu_link_oscars",
+       "ref":"nv_ev_acd",
+       "title":"Oscars"
+    },
+    {
+       "categoryId":"awards",
+       "href":"https://m.imdb.com/feature/bestpicture/",
+       "i18nKey":"nav_mainMenu_link_bestPictureWinners",
+       "ref":"nv_ch_osc",
+       "title":"Best Picture Winners"
+    },
+    {
+       "categoryId":"awards",
+       "href":"https://www.imdb.com/search/title/?count=100&groups=oscar_best_picture_winners&sort=year,desc",
+       "i18nKey":"nav_mainMenu_link_bestPictureWinners",
+       "ref":"nv_ch_osc",
+       "title":"Best Picture Winners"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/golden-globes/",
+       "i18nKey":"nav_mainMenu_link_goldenGlobes",
+       "ref":"nv_ev_gg",
+       "title":"Golden Globes"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/emmys/",
+       "i18nKey":"nav_mainMenu_link_emmys",
+       "ref":"nv_ev_rte",
+       "title":"Emmys"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/imdbpicks/pride/",
+       "i18nKey":"nav_mainMenu_link_prideMonth",
+       "ref":"nv_ev_pri",
+       "title":"LGBTQ+ Pride Month"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/starmeterawards/",
+       "i18nKey":"nav_mainMenu_link_starmeter",
+       "ref":"nv_ev_sma",
+       "title":"STARmeter Awards"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/comic-con/",
+       "i18nKey":"nav_mainMenu_link_sanDiegoComicCon",
+       "ref":"nv_ev_comic",
+       "title":"San Diego Comic-Con"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/nycc/",
+       "i18nKey":"nav_mainMenu_link_newYorkComicCon",
+       "ref":"nv_ev_nycc",
+       "title":"New York Comic-Con"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/sundance/",
+       "i18nKey":"nav_mainMenu_link_sundanceFilmFestival",
+       "ref":"nv_ev_sun",
+       "title":"Sundance Film Festival"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/toronto/",
+       "i18nKey":"nav_mainMenu_link_torontoInternationalFilmFestival",
+       "ref":"nv_ev_tor",
+       "title":"Toronto Int'l Film Festival"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/awards-central/",
+       "i18nKey":"nav_mainMenu_link_awardsCentral",
+       "ref":"nv_ev_awrd",
+       "title":"Awards Central"
+    },
+    {
+       "categoryId":"awards",
+       "href":"/festival-central/",
+       "i18nKey":"nav_mainMenu_link_festivalCentral",
+       "ref":"nv_ev_fc",
+       "title":"Festival Central"
+    },
+    {
+       "categoryId":"awards",
+       "href":"https://www.imdb.com/event/all/",
+       "i18nKey":"nav_mainMenu_link_allEvents",
+       "ref":"nv_ev_all",
+       "title":"All Events"
+    },
+    {
+       "categoryId":"celebs",
+       "href":"/feature/bornondate/",
+       "i18nKey":"nav_mainMenu_link_bornToday",
+       "ref":"nv_cel_brn",
+       "title":"Born Today"
+    },
+    {
+       "categoryId":"celebs",
+       "href":"https://m.imdb.com/chart/starmeter/",
+       "i18nKey":"nav_mainMenu_link_mostPopularCelebs",
+       "ref":"nv_cel_brn",
+       "title":"Most Popular Celebs"
+    },
+    {
+       "categoryId":"celebs",
+       "href":"https://www.imdb.com/search/name/?gender=male,female",
+       "i18nKey":"nav_mainMenu_link_mostPopularCelebs",
+       "ref":"nv_cel_m",
+       "title":"Most Popular Celebs"
+    },
+    {
+       "categoryId":"celebs",
+       "href":"/news/celebrity/",
+       "i18nKey":"nav_mainMenu_link_celebrityNews",
+       "ref":"nv_cel_nw",
+       "title":"Celebrity News"
+    },
+    {
+       "categoryId":"video",
+       "href":"/what-to-watch/",
+       "i18nKey":"nav_mainMenu_link_whatToWatch",
+       "ref":"nv_watch",
+       "title":"What to Watch"
+    },
+    {
+       "categoryId":"video",
+       "href":"/trailers/",
+       "i18nKey":"nav_mainMenu_link_latestTrailers",
+       "ref":"nv_mv_tr",
+       "title":"Latest Trailers"
+    },
+    {
+       "categoryId":"video",
+       "enableFlagName":"showIMDbTVLink",
+       "href":"/tv/",
+       "i18nKey":"nav_mainMenu_link_imdbTv",
+       "ref":"nv_vid_tv",
+       "title":"IMDb TV"
+    },
+    {
+       "categoryId":"video",
+       "href":"/originals/",
+       "i18nKey":"nav_mainMenu_link_imdbOriginals",
+       "ref":"nv_sf_ori",
+       "title":"IMDb Originals"
+    },
+    {
+       "categoryId":"video",
+       "href":"/imdbpicks/",
+       "i18nKey":"nav_mainMenu_link_imdbPicks",
+       "ref":"nv_pi",
+       "title":"IMDb Picks"
+    },
+    {
+       "categoryId":"video",
+       "href":"/podcasts/",
+       "i18nKey":"nav_mainMenu_link_imdbPodcasts",
+       "ref":"nv_pod",
+       "title":"IMDb Podcasts"
+    },
+    {
+       "categoryId":"comm",
+       "href":"https://help.imdb.com/imdb",
+       "i18nKey":"nav_mainMenu_link_helpCenter",
+       "ref":"cons_nb_hlp",
+       "title":"Help Center"
+    },
+    {
+       "categoryId":"comm",
+       "href":"https://contribute.imdb.com/czone",
+       "i18nKey":"nav_mainMenu_link_contributorZone",
+       "ref":"nv_cm_cz",
+       "title":"Contributor Zone"
+    },
+    {
+       "categoryId":"comm",
+       "href":"/poll/",
+       "i18nKey":"nav_mainMenu_link_polls",
+       "ref":"nv_cm_pl",
+       "title":"Polls"
+    }
+ ]

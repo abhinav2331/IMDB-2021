@@ -1,0 +1,47 @@
+[
+   {
+      "formName":"",
+      "hasTypeahead":true,
+      "i18nKey":"nav_search_dropdownOption_all",
+      "icon":"search",
+      "label":"All",
+      "typeaheadPath":""
+   },
+   {
+      "formName":"tt",
+      "hasTypeahead":true,
+      "i18nKey":"nav_search_dropdownOption_titles",
+      "icon":"movie",
+      "label":"Titles",
+      "typeaheadPath":"titles/"
+   },
+   {
+      "formName":"ep",
+      "hasTypeahead":false,
+      "i18nKey":"nav_search_dropdownOption_tvEpisodes",
+      "icon":"television",
+      "label":"TV Episodes"
+   },
+   {
+      "formName":"nm",
+      "hasTypeahead":true,
+      "i18nKey":"nav_search_dropdownOption_celebs",
+      "icon":"people",
+      "label":"Celebs",
+      "typeaheadPath":"names/"
+   },
+   {
+      "formName":"co",
+      "hasTypeahead":false,
+      "i18nKey":"nav_search_dropdownOption_companies",
+      "icon":"business",
+      "label":"Companies"
+   },
+   {
+      "formName":"kw",
+      "hasTypeahead":false,
+      "i18nKey":"nav_search_dropdownOption_keywords",
+      "icon":"label",
+      "label":"Keywords"
+   }
+]

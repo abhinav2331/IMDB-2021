@@ -1,0 +1,809 @@
+{
+   "items":[
+      {
+         "id":"tt3554046",
+         "title":"Space Jam: A New Legacy",
+         "fullTitle":"Space Jam: A New Legacy (2021)",
+         "year":"2021",
+         "releaseState":"July 16",
+         "image":"https://m.media-amazon.com/images/M/MV5BZTAzN2ZlZTEtOTA5ZS00MGFjLTliYWMtYTQzYTFlYTIwZDVmXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"120",
+         "runtimeStr":"2h 0mins",
+         "plot":"NBA superstar LeBron James teams up with Bugs Bunny and the rest of the Looney Tunes for this long-awaited sequel.",
+         "contentRating":"PG",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi, Sport",
+         "genreList":[
+            {
+               "key":"Animation",
+               "value":"Animation"
+            },
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Comedy",
+               "value":"Comedy"
+            },
+            {
+               "key":"Family",
+               "value":"Family"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            },
+            {
+               "key":"Sci-Fi",
+               "value":"Sci-Fi"
+            },
+            {
+               "key":"Sport",
+               "value":"Sport"
+            }
+         ],
+         "directors":"Malcolm D. Lee",
+         "directorList":[
+            {
+               "id":"nm0002700",
+               "name":"Malcolm D. Lee"
+            }
+         ],
+         "stars":"LeBron James, Don Cheadle, Cedric Joe, Khris Davis",
+         "starList":[
+            {
+               "id":"nm1429908",
+               "name":"LeBron James"
+            },
+            {
+               "id":"nm0000332",
+               "name":"Don Cheadle"
+            },
+            {
+               "id":"nm9347978",
+               "name":"Cedric Joe"
+            },
+            {
+               "id":"nm7800057",
+               "name":"Khris Davis"
+            }
+         ]
+      },
+      {
+         "id":"tt9844522",
+         "title":"Escape Room: Tournament of Champions",
+         "fullTitle":"Escape Room: Tournament of Champions (2021)",
+         "year":"2021",
+         "releaseState":"July 16",
+         "image":"https://m.media-amazon.com/images/M/MV5BMzUxNGIyY2MtNDUxZC00YWY1LTg0MzctM2ExNTNmODlhMTRlXkEyXkFqcGdeQXVyMTE4Nzk0MzE4._V1_UY176_CR6,0,128,176_AL_.jpg",
+         "runtimeMins":"88",
+         "runtimeStr":"1h 28mins",
+         "plot":"Six people unwittingly find themselves locked in another series of escape rooms, slowly uncovering what they have in common to survive. Joining forces with two of the original survivors, they soon discover they've all played the game before.",
+         "contentRating":"PG-13",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Action, Adventure, Horror, Mystery, Sci-Fi, Thriller",
+         "genreList":[
+            {
+               "key":"Action",
+               "value":"Action"
+            },
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Horror",
+               "value":"Horror"
+            },
+            {
+               "key":"Mystery",
+               "value":"Mystery"
+            },
+            {
+               "key":"Sci-Fi",
+               "value":"Sci-Fi"
+            },
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Adam Robitel",
+         "directorList":[
+            {
+               "id":"nm0733263",
+               "name":"Adam Robitel"
+            }
+         ],
+         "stars":"Taylor Russell, Logan Miller, Thomas Cocquerel, Holland Roden",
+         "starList":[
+            {
+               "id":"nm5347988",
+               "name":"Taylor Russell"
+            },
+            {
+               "id":"nm2383250",
+               "name":"Logan Miller"
+            },
+            {
+               "id":"nm5710414",
+               "name":"Thomas Cocquerel"
+            },
+            {
+               "id":"nm1555699",
+               "name":"Holland Roden"
+            }
+         ]
+      },
+      {
+         "id":"tt14127738",
+         "title":"The Sleepless Unrest: The Real Conjuring Home",
+         "fullTitle":"The Sleepless Unrest: The Real Conjuring Home (2021)",
+         "year":"2021",
+         "releaseState":"July 16",
+         "image":"https://m.media-amazon.com/images/M/MV5BOGQ1ZmI2ODktMzhhNS00N2QyLThjNGItZjA1NjViMTM4YzlmXkEyXkFqcGdeQXVyODk1Mjk0Mw@@._V1_UX128_CR0,1,128,176_AL_.jpg",
+         "runtimeMins":"",
+         "runtimeStr":"",
+         "plot":"The world-famous house that inspired The Conjuring film has recently been sold and is now open to paranormal investigations. With special access, a small group of filmmakers and paranormal investigators are allowed to move into the famously haunted home for two weeks in hopes of capturing evidence. During this time the group will be experiencing, investigating, and documenting every moment. Will they be able to make it through their stay? Do malevolent spirits still haunt this home, or is it something more sinister?",
+         "contentRating":"",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Documentary, Horror, Mystery, Reality-TV, Thriller",
+         "genreList":[
+            {
+               "key":"Documentary",
+               "value":"Documentary"
+            },
+            {
+               "key":"Horror",
+               "value":"Horror"
+            },
+            {
+               "key":"Mystery",
+               "value":"Mystery"
+            },
+            {
+               "key":"Reality-TV",
+               "value":"Reality-TV"
+            },
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Kendall Whelpton, Vera Whelpton",
+         "directorList":[
+            {
+               "id":"nm2153250",
+               "name":"Kendall Whelpton"
+            },
+            {
+               "id":"nm11255261",
+               "name":"Vera Whelpton"
+            }
+         ],
+         "stars":"Vera Whelpton, Kendall Whelpton, Cory Heinzen, Brian Murray",
+         "starList":[
+            {
+               "id":"nm11255261",
+               "name":"Vera Whelpton"
+            },
+            {
+               "id":"nm2153250",
+               "name":"Kendall Whelpton"
+            },
+            {
+               "id":"nm9300603",
+               "name":"Cory Heinzen"
+            },
+            {
+               "id":"nm11020730",
+               "name":"Brian Murray"
+            }
+         ]
+      },
+      {
+         "id":"tt10954652",
+         "title":"Old",
+         "fullTitle":"Old (2021)",
+         "year":"2021",
+         "releaseState":"July 23",
+         "image":"https://m.media-amazon.com/images/M/MV5BZGMxYmI2MDAtMjZlMC00YjQyLTljNGYtOGI0YmMwOGE3YWNiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"",
+         "runtimeStr":"",
+         "plot":"A thriller about a family on a tropical holiday who discover that the secluded beach where they are relaxing for a few hours is somehow causing them to age rapidly reducing their entire lives into a single day.",
+         "contentRating":"PG-13",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Drama, Mystery, Thriller",
+         "genreList":[
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Mystery",
+               "value":"Mystery"
+            },
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"M. Night Shyamalan",
+         "directorList":[
+            {
+               "id":"nm0796117",
+               "name":"M. Night Shyamalan"
+            }
+         ],
+         "stars":"Gael García Bernal, Vicky Krieps, Thomasin McKenzie, Embeth Davidtz",
+         "starList":[
+            {
+               "id":"nm0305558",
+               "name":"Gael García Bernal"
+            },
+            {
+               "id":"nm3043279",
+               "name":"Vicky Krieps"
+            },
+            {
+               "id":"nm5057169",
+               "name":"Thomasin McKenzie"
+            },
+            {
+               "id":"nm0001110",
+               "name":"Embeth Davidtz"
+            }
+         ]
+      },
+      {
+         "id":"tt8404256",
+         "title":"Snake Eyes",
+         "fullTitle":"Snake Eyes (2021)",
+         "year":"2021",
+         "releaseState":"July 23",
+         "image":"https://m.media-amazon.com/images/M/MV5BMTQ4ZWU3ZTAtMmZjNC00OWI1LWFlNjgtN2M2MzQzNjAzYjc1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"121",
+         "runtimeStr":"2h 1mins",
+         "plot":"A G.I. Joe spin-off centered around the character of Snake Eyes.",
+         "contentRating":"PG-13",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Action, Adventure, Fantasy, Sci-Fi, Thriller",
+         "genreList":[
+            {
+               "key":"Action",
+               "value":"Action"
+            },
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            },
+            {
+               "key":"Sci-Fi",
+               "value":"Sci-Fi"
+            },
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Robert Schwentke",
+         "directorList":[
+            {
+               "id":"nm0777881",
+               "name":"Robert Schwentke"
+            }
+         ],
+         "stars":"Henry Golding, Andrew Koji, Samara Weaving, Úrsula Corberó",
+         "starList":[
+            {
+               "id":"nm6525901",
+               "name":"Henry Golding"
+            },
+            {
+               "id":"nm4010671",
+               "name":"Andrew Koji"
+            },
+            {
+               "id":"nm3034977",
+               "name":"Samara Weaving"
+            },
+            {
+               "id":"nm2216549",
+               "name":"Úrsula Corberó"
+            }
+         ]
+      },
+      {
+         "id":"tt4651466",
+         "title":"Joe Bell",
+         "fullTitle":"Joe Bell (2020)",
+         "year":"2020",
+         "releaseState":"July 23",
+         "image":"https://m.media-amazon.com/images/M/MV5BZGM2MDQ4OTUtNjI3Mi00OTNiLWJhYmYtOTdiN2JiYTNmN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"90",
+         "runtimeStr":"1h 30mins",
+         "plot":"The true story of a small town, working class father who embarks on a solo walk across the U.S. to crusade against bullying after his son is tormented in high school for being gay.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"61",
+         "genres":"Biography, Drama",
+         "genreList":[
+            {
+               "key":"Biography",
+               "value":"Biography"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            }
+         ],
+         "directors":"Reinaldo Marcus Green",
+         "directorList":[
+            {
+               "id":"nm3232264",
+               "name":"Reinaldo Marcus Green"
+            }
+         ],
+         "stars":"Mark Wahlberg, Connie Britton, Morgan Lily, Gary Sinise",
+         "starList":[
+            {
+               "id":"nm0000242",
+               "name":"Mark Wahlberg"
+            },
+            {
+               "id":"nm0110168",
+               "name":"Connie Britton"
+            },
+            {
+               "id":"nm2079681",
+               "name":"Morgan Lily"
+            },
+            {
+               "id":"nm0000641",
+               "name":"Gary Sinise"
+            }
+         ]
+      },
+      {
+         "id":"tt13648228",
+         "title":"How It Ends",
+         "fullTitle":"How It Ends (2021)",
+         "year":"2021",
+         "releaseState":"July 23",
+         "image":"https://m.media-amazon.com/images/M/MV5BYTk1NWEzZjUtZTYzNi00YjM1LThlMjctM2JmZDhiYTRjOWYzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"82",
+         "runtimeStr":"1h 22mins",
+         "plot":"In this feel-good apocalyptic comedy, Liza (Zoe Lister-Jones) embarks on a hilarious journey through LA in hopes of making it to her last party before it all ends, running into an eclectic cast of characters along the way.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"59",
+         "genres":"Comedy",
+         "genreList":[
+            {
+               "key":"Comedy",
+               "value":"Comedy"
+            }
+         ],
+         "directors":"Zoe Lister-Jones, Daryl Wein",
+         "directorList":[
+            {
+               "id":"nm1830380",
+               "name":"Zoe Lister-Jones"
+            },
+            {
+               "id":"nm0918078",
+               "name":"Daryl Wein"
+            }
+         ],
+         "stars":"Zoe Lister-Jones, Cailee Spaeny, Whitney Cummings, Tawny Newsome",
+         "starList":[
+            {
+               "id":"nm1830380",
+               "name":"Zoe Lister-Jones"
+            },
+            {
+               "id":"nm8314228",
+               "name":"Cailee Spaeny"
+            },
+            {
+               "id":"nm1579753",
+               "name":"Whitney Cummings"
+            },
+            {
+               "id":"nm5634295",
+               "name":"Tawny Newsome"
+            }
+         ]
+      },
+      {
+         "id":"tt11656220",
+         "title":"Midnight in the Switchgrass",
+         "fullTitle":"Midnight in the Switchgrass (2021)",
+         "year":"2021",
+         "releaseState":"July 23",
+         "image":"https://m.media-amazon.com/images/M/MV5BMTRkZmUwZjktMGU3NC00Y2ZjLTg0NTMtZDYyNzQ4MDNhMTY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"99",
+         "runtimeStr":"1h 39mins",
+         "plot":"An FBI agent and Florida State officer team up to investigate a string of unsolved murder cases.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Thriller",
+         "genreList":[
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Randall Emmett",
+         "directorList":[
+            {
+               "id":"nm0256542",
+               "name":"Randall Emmett"
+            }
+         ],
+         "stars":"Megan Fox, Sistine Rose Stallone, Bruce Willis, Caitlin Carmichael",
+         "starList":[
+            {
+               "id":"nm1083271",
+               "name":"Megan Fox"
+            },
+            {
+               "id":"nm1875985",
+               "name":"Sistine Rose Stallone"
+            },
+            {
+               "id":"nm0000246",
+               "name":"Bruce Willis"
+            },
+            {
+               "id":"nm2965079",
+               "name":"Caitlin Carmichael"
+            }
+         ]
+      },
+      {
+         "id":"tt0870154",
+         "title":"Jungle Cruise",
+         "fullTitle":"Jungle Cruise (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BNDE1MGRlNTQtZjc4ZC00MTI0LWEwY2MtODk1YTM2NmFmYTNmXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"127",
+         "runtimeStr":"2h 7mins",
+         "plot":"Based on Disneyland's theme park ride where a small riverboat takes a group of travelers through a jungle filled with dangerous animals and reptiles but with a supernatural element.",
+         "contentRating":"PG-13",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Action, Adventure, Comedy, Fantasy",
+         "genreList":[
+            {
+               "key":"Action",
+               "value":"Action"
+            },
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Comedy",
+               "value":"Comedy"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            }
+         ],
+         "directors":"Jaume Collet-Serra",
+         "directorList":[
+            {
+               "id":"nm1429471",
+               "name":"Jaume Collet-Serra"
+            }
+         ],
+         "stars":"Dwayne Johnson, Emily Blunt, Edgar Ramírez, Jesse Plemons",
+         "starList":[
+            {
+               "id":"nm0425005",
+               "name":"Dwayne Johnson"
+            },
+            {
+               "id":"nm1289434",
+               "name":"Emily Blunt"
+            },
+            {
+               "id":"nm1183149",
+               "name":"Edgar Ramírez"
+            },
+            {
+               "id":"nm0687146",
+               "name":"Jesse Plemons"
+            }
+         ]
+      },
+      {
+         "id":"tt9243804",
+         "title":"The Green Knight",
+         "fullTitle":"The Green Knight (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BMjMxNTdiNWMtOWY0My00MjM4LTkwNzMtOGI0YThhN2Q4M2I4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"125",
+         "runtimeStr":"2h 5mins",
+         "plot":"A fantasy re-telling of the medieval story of Sir Gawain and the Green Knight.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Adventure, Drama, Fantasy",
+         "genreList":[
+            {
+               "key":"Adventure",
+               "value":"Adventure"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            }
+         ],
+         "directors":"David Lowery",
+         "directorList":[
+            {
+               "id":"nm1108007",
+               "name":"David Lowery"
+            }
+         ],
+         "stars":"Dev Patel, Alicia Vikander, Joel Edgerton, Sarita Choudhury",
+         "starList":[
+            {
+               "id":"nm2353862",
+               "name":"Dev Patel"
+            },
+            {
+               "id":"nm2539953",
+               "name":"Alicia Vikander"
+            },
+            {
+               "id":"nm0249291",
+               "name":"Joel Edgerton"
+            },
+            {
+               "id":"nm0002004",
+               "name":"Sarita Choudhury"
+            }
+         ]
+      },
+      {
+         "id":"tt10696896",
+         "title":"Stillwater",
+         "fullTitle":"Stillwater (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BN2IzMTUyMDUtZGJmZC00YWMzLWFhMGMtZjQwMTkzMzViMjFkXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"140",
+         "runtimeStr":"2h 20mins",
+         "plot":"A father travels from Oklahoma to France to help his estranged daughter, who is in prison for a murder she claims she didn't commit.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Crime, Drama, Thriller",
+         "genreList":[
+            {
+               "key":"Crime",
+               "value":"Crime"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Thriller",
+               "value":"Thriller"
+            }
+         ],
+         "directors":"Tom McCarthy",
+         "directorList":[
+            {
+               "id":"nm0565336",
+               "name":"Tom McCarthy"
+            }
+         ],
+         "stars":"Matt Damon, Abigail Breslin, Camille Cottin, Deanna Dunagan",
+         "starList":[
+            {
+               "id":"nm0000354",
+               "name":"Matt Damon"
+            },
+            {
+               "id":"nm1113550",
+               "name":"Abigail Breslin"
+            },
+            {
+               "id":"nm1891185",
+               "name":"Camille Cottin"
+            },
+            {
+               "id":"nm0241759",
+               "name":"Deanna Dunagan"
+            }
+         ]
+      },
+      {
+         "id":"tt10388028",
+         "title":"Enemies of the State",
+         "fullTitle":"Enemies of the State (2020)",
+         "year":"2020",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BYTMwYTg3YzUtODgwMi00MTJlLTg3MjUtMjVlZTZmMzYwMGIwXkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_UX128_CR0,3,128,176_AL_.jpg",
+         "runtimeMins":"103",
+         "runtimeStr":"1h 43mins",
+         "plot":"An American family becomes entangled in a bizarre web of secrets and lies when their hacker son is targeted by the U.S. government, making them all ENEMIES OF THE STATE.",
+         "contentRating":"",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"76",
+         "genres":"Documentary",
+         "genreList":[
+            {
+               "key":"Documentary",
+               "value":"Documentary"
+            }
+         ],
+         "directors":"Sonia Kennebeck",
+         "directorList":[
+            {
+               "id":"nm4807418",
+               "name":"Sonia Kennebeck"
+            }
+         ],
+         "stars":"Joel Widman, Stuart Anderson, Nemo Baletic, Angela Barbosa",
+         "starList":[
+            {
+               "id":"nm8282623",
+               "name":"Joel Widman"
+            },
+            {
+               "id":"nm12264735",
+               "name":"Stuart Anderson"
+            },
+            {
+               "id":"nm11286556",
+               "name":"Nemo Baletic"
+            },
+            {
+               "id":"nm5051045",
+               "name":"Angela Barbosa"
+            }
+         ]
+      },
+      {
+         "id":"tt10451852",
+         "title":"Nine Days",
+         "fullTitle":"Nine Days (2020)",
+         "year":"2020",
+         "releaseState":"July 30",
+         "image":"https://m.media-amazon.com/images/M/MV5BZTNmOGFiOGEtMDQyZS00NDhmLThiMTAtZDk2YjAxZmExZDJiXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_UX128_CR0,4,128,176_AL_.jpg",
+         "runtimeMins":"124",
+         "runtimeStr":"2h 4mins",
+         "plot":"A reclusive man conducts a series of interviews with human souls for a chance to be born.",
+         "contentRating":"R",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"78",
+         "genres":"Drama, Fantasy",
+         "genreList":[
+            {
+               "key":"Drama",
+               "value":"Drama"
+            },
+            {
+               "key":"Fantasy",
+               "value":"Fantasy"
+            }
+         ],
+         "directors":"Edson Oda",
+         "directorList":[
+            {
+               "id":"nm4043005",
+               "name":"Edson Oda"
+            }
+         ],
+         "stars":"Brandy Pitcher, Eric Ramaekers, Eliza de Azevedo Brown, Lisa Starrett",
+         "starList":[
+            {
+               "id":"nm6132216",
+               "name":"Brandy Pitcher"
+            },
+            {
+               "id":"nm5427928",
+               "name":"Eric Ramaekers"
+            },
+            {
+               "id":"nm6476787",
+               "name":"Eliza de Azevedo Brown"
+            },
+            {
+               "id":"nm8342905",
+               "name":"Lisa Starrett"
+            }
+         ]
+      },
+      {
+         "id":"tt14673560",
+         "title":"Ride the Eagle",
+         "fullTitle":"Ride the Eagle (2021)",
+         "year":"2021",
+         "releaseState":"July 30",
+         "image":"https://imdb-api.com/images/128x176/nopicture.jpg",
+         "runtimeMins":"",
+         "runtimeStr":"",
+         "plot":"Leif is left with a conditional inheritance when his estranged mother Honey dies. Before he can move into her picturesque Yosemite cabin, he has to complete her elaborate, and sometimes dubious, to-do list.",
+         "contentRating":"",
+         "imDbRating":"",
+         "imDbRatingCount":"",
+         "metacriticRating":"",
+         "genres":"Comedy, Drama",
+         "genreList":[
+            {
+               "key":"Comedy",
+               "value":"Comedy"
+            },
+            {
+               "key":"Drama",
+               "value":"Drama"
+            }
+         ],
+         "directors":"Trent O'Donnell",
+         "directorList":[
+            {
+               "id":"nm2094436",
+               "name":"Trent O'Donnell"
+            }
+         ],
+         "stars":"J.K. Simmons, Jake Johnson, Susan Sarandon, D'Arcy Carden",
+         "starList":[
+            {
+               "id":"nm0799777",
+               "name":"J.K. Simmons"
+            },
+            {
+               "id":"nm2159926",
+               "name":"Jake Johnson"
+            },
+            {
+               "id":"nm0000215",
+               "name":"Susan Sarandon"
+            },
+            {
+               "id":"nm3639013",
+               "name":"D'Arcy Carden"
+            }
+         ]
+      }
+   ],
+   "errorMessage":""
+}

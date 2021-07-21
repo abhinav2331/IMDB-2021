@@ -1,0 +1,48 @@
+[
+   {
+      "i18nKey":"nav_mainMenu_label_movies",
+      "icon":"movie",
+      "id":"mov",
+      "title":"Movies"
+   },
+   {
+      "groupId":"tvshows_video",
+      "i18nKey":"nav_mainMenu_label_tvShows",
+      "icon":"television",
+      "id":"tvshows",
+      "title":"TV Shows"
+   },
+   {
+      "groupId":"tvshows_video",
+      "i18nKey":"nav_mainMenu_label_watch",
+      "icon":"video-library",
+      "id":"video",
+      "title":"Watch"
+   },
+   {
+      "i18nKey":"nav_mainMenu_label_awardsAndEvents",
+      "icon":"star-circle-filled",
+      "id":"awards",
+      "title":"Awards & Events"
+   },
+   {
+      "className":"noMarginItem",
+      "i18nKey":"nav_mainMenu_label_celebs",
+      "icon":"people",
+      "id":"celebs",
+      "title":"Celebs"
+   },
+   {
+      "i18nKey":"",
+      "id":"empty",
+      "isEmpty":true,
+      "title":"Empty"
+   },
+   {
+      "className":"noMarginItem",
+      "i18nKey":"nav_mainMenu_label_community",
+      "icon":"earth",
+      "id":"comm",
+      "title":"Community"
+   }
+]
